@@ -47,8 +47,7 @@ volumes:
 networks:
   monitoring:
     driver: bridge
-root@ubuntu2:/home/ubuntu2/n8n# cat docker-compose.yaml | less
-
+    
     networks:
       - monitoring
 
