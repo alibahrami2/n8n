@@ -1,8 +1,3 @@
-root@ubuntu2:/home/ubuntu2/nexus-registry# cd ..
-root@ubuntu2:/home/ubuntu2# cd n8n/
-root@ubuntu2:/home/ubuntu2/n8n# ls
-docker-compose.yaml  nginx.conf  prometheus.yml
-root@ubuntu2:/home/ubuntu2/n8n# cat docker-compose.yaml 
 version: '3.8'
 
 services:
